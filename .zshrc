@@ -100,8 +100,4 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 
-alias c='clear'
-
-alias bonsai='sh ~/Code/Shell/bonsai.sh'
-
-
+source ~/Dotfiles/.aliases

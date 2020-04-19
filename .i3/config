@@ -8,8 +8,7 @@ set $mod Mod4
 # workspace_layout tabbed <stacking|tabbed>
 
 # set wallpaper
-
-exec_always --no-startup-id wal -i ~/Pictures/wallpaper/wp_tron_002.jpg
+exec --no-startup-id wal -i ~/Pictures/wallpapers/tg_eto_002.jpg
 
 # Configure border style <normal|1pixel|pixel xx|none|pixel>
 new_window pixel 1
@@ -150,7 +149,7 @@ bindsym $mod+Ctrl+Left workspace prev
 set $ws1 www
 set $ws2 dev
 set $ws3 term
-set $ws4 4
+set $ws4 games
 set $ws5 5
 set $ws6 6
 set $ws7 7

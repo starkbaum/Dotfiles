@@ -1,0 +1,55 @@
+#########################################################
+# Eto v1
+# Author: Stefan Starkbaum
+########################################################
+
+[colors]
+foreground          = #dedbdb
+foreground_bold     = #dedbdb
+cursor              = #dedbdb
+cursor_foreground   = #002b36
+background          = rgb(47, 50, 70)
+
+# 16 color space
+
+# Black, Gray, Silver, White
+color0  = #002b36
+color8  = #657b83
+color7  = #93a1a1
+color15 = #fdf6e3
+
+# Ruby Red
+color9  = #931F1D
+
+# Teal Blue
+color1  = #527686
+
+# Dark Sea Green
+color6   = #9ABD97
+color14  = #9ABD97
+
+# Green Sheen
+color2  = #66A6A1
+color10 = #66A6A1
+
+# Torquoise Green
+color3  = #B6D7B9
+color11 = #B6D7B9
+
+# Tea Green
+color4  = #D0F1BF
+color12 = #D0F1BF
+
+# Razzmic Berry
+color5  = #714D73
+color13 = #714D73
+
+
+# Extra colors
+color16 = #cb4b16
+color17 = #d33682
+color18 = #073642
+color19 = #586e75
+color20 = #839496
+color21 = #eee8d5
+

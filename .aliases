@@ -1,6 +1,6 @@
 alias c='clear'
 
-alias bonsai='sh ~/Code/Shell/bonsai.sh'
+alias bonsai='bonsai.sh'
 
 
 # Git aliases

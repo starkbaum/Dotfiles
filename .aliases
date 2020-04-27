@@ -10,3 +10,5 @@ alias gcm='git commit -m'
 alias gp='git push'
 
 alias tb='taskbook'
+
+alias pu='vendor/phpunit/phpunit/phpunit'

@@ -12,3 +12,6 @@ alias gp='git push'
 alias tb='taskbook'
 
 alias pu='vendor/phpunit/phpunit/phpunit'
+
+
+alias dual="xrandr --output HDMI1 --auto --above eDP1"

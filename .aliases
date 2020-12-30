@@ -15,3 +15,6 @@ alias pu='vendor/phpunit/phpunit/phpunit'
 
 
 alias dual="xrandr --output HDMI1 --auto --above eDP1"
+
+
+alias sail="bash vendor/bin/sail"

@@ -152,11 +152,11 @@ bindsym $mod+Ctrl+Left workspace prev
 set $ws1 www
 set $ws2 dev
 set $ws3 term
-set $ws4 games
+set $ws4 music
 set $ws5 5
 set $ws6 6
 set $ws7 7
-set $ws8 8
+set $ws8 games
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
